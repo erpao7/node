@@ -1,6 +1,7 @@
 # node
 
 > A Vue.js project
+node.js与数据库连接实现查询功能
 
 ## Build Setup
 
